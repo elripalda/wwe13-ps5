@@ -5,8 +5,10 @@
 > ### Built on WWE '13 Recomp by PromethenDev
 > This port is based on **[WWE '13 Recomp](https://github.com/PromethenDev/wwe13-recomp)**, PromethenDev's native recompilation of WWE '13 for PC, and its game fixes. Their work is the backbone of this project: this release takes it to the PS5. Go check out and support the original project.
 
-## Get it on Recomp Store
-The easiest way to play is **[Recomp Store](https://recompstore.com)**. It installs the app, sets the game up from your own disc image and title update, and keeps it up to date.
+## Get it on RecompStore
+The easiest way to play is **[RecompStore](https://recompstore.com)**. It installs the app, sets the game up from your own disc image and title update, and keeps it up to date.
+
+[![Get it on RecompStore](https://recompstore.com/assets/press/badge-dark.svg)](https://recompstore.com/game/PPSA92013)
 
 ## What's in it
 - 720p, 1080p or 1440p, matches at 60 fps (entrances and cutscenes at 30, as on the Xbox 360) or a 30 fps lock, 4x or 2x anti-aliasing and anisotropic filtering
